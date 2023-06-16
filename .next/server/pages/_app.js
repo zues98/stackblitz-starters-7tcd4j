@@ -1,5 +1,6 @@
-(() => {
-var exports = {};
+do {
+    
+} while (condition);var exports = {};
 exports.id = 888;
 exports.ids = [888];
 exports.modules = {
@@ -53,4 +54,4 @@ var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s 
 var __webpack_exports__ = (__webpack_exec__(484));
 module.exports = __webpack_exports__;
 
-})();
+}
